@@ -5,8 +5,7 @@ A potential investor wants to learn more about the weather of Oahu, an island in
 
 ## Results
 
-The tables below represent June and December's temperature statistice over time. 
-NOTE:Temperatures are measured in degrees of Fahrenheit.
+The tables below represent June and December's temperature statistice over time. Temperatures are measured in degrees of Fahrenheit.
 
 ![June_temps](https://user-images.githubusercontent.com/107579508/184689354-72993ceb-826d-40a5-9ac5-01cdd1b1a77a.png)
 
@@ -14,8 +13,8 @@ NOTE:Temperatures are measured in degrees of Fahrenheit.
 
 Key Points:
  - Mean temperature between June and December is approximately **75** and **71** degrees fahrenheit respectively. This is a small fluctuation and provides ideal temperatures for this business model to sustain itself.
- - The maximum temperatures of 85 (June) and 83 (December) degrees are also remarkably similar and provide ideal temperatures for surfing and ice cream consumption.
- - The minimum temperatures of 64 (June) and 56 (December) degrees show the greatest variance and may not be conducive to ice cream consumption. However, it should not cause great concern as these temperatures are likely experienced outside of the normal operating hours anyway.
+ - The maximum temperatures of **85** (June) and **83** (December) degrees are also remarkably similar and provide ideal temperatures for surfing and ice cream consumption.
+ - The minimum temperatures of **64** (June) and **56** (December) degrees show the greatest variance and may not be conducive to ice cream consumption. However, it should not cause great concern as these temperatures are likely experienced outside of the normal operating hours anyway.
 
 ## Summary
 
